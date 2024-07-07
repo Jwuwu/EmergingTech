@@ -1,0 +1,345 @@
+[
+  {
+    "title": "Baldur's Gate III",
+    "genre": "Role-playing",
+    "platform": [
+      "PC",
+      "Stadia"
+    ],
+    "releaseYear": 2020,
+    "developer": "Larian Studios",
+    "rating": null,
+    "description": "Baldur's Gate III is a role-playing video game developed and published by Larian Studios. It is the third main game in the Baldur's Gate series and is based on the Dungeons & Dragons tabletop role-playing system.",
+    "imageFile": "/assets/images/1.jpg"
+  },
+  {
+    "title": "God of War Ragnarök",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 5"
+    ],
+    "releaseYear": "TBA",
+    "developer": "Santa Monica Studio",
+    "rating": "TBA",
+    "description": "God of War Ragnarök is an upcoming action-adventure video game developed by Santa Monica Studio and published by Sony Interactive Entertainment. It is a sequel to the 2018 game God of War.",
+    "imageFile": "/assets/images/MV5BMDQ1MmQ5NTItZTk0ZS00M2E5LTkzNmQtNDI2YWMyOGFlZWVjXkEyXkFqcGdeQXVyOTg3NjI1MTg@._V1_QL75_UY414_CR3,0,280,414_.jpg"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "Action role-playing",
+    "platform": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "releaseYear": 2015,
+    "developer": "CD Projekt Red",
+    "rating": "9.3/10 (IGN)",
+    "description": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt Red. It is based on the book series by Polish author Andrzej Sapkowski and is the third installment in The Witcher series.",
+    "imageFile": "/assets/images/MV5BMDU4ODc1M2UtODg3Ny00NDViLTkxNmQtMzMzZWM1NGRmYTNjXkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+  },
+  {
+    "title": "Silent Hill 2",
+    "genre": "Survival horror",
+    "platform": [
+      "PlayStation 2",
+      "Xbox",
+      "PC"
+    ],
+    "releaseYear": 2001,
+    "developer": "Konami",
+    "rating": "9.5/10 (IGN)",
+    "description": "Silent Hill 2 is a survival horror video game developed by Konami and released for the PlayStation 2 in 2001. It is the second installment in the Silent Hill series.",
+    "imageFile": "/assets/images/MV5BMDUzYjlmZWYtN2FlMC00ZWQwLTg2ZjQtZTM2NGQ3M2UwZjk1XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Portal 2",
+    "genre": "Puzzle-platform",
+    "platform": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "releaseYear": 2011,
+    "developer": "Valve Corporation",
+    "rating": "9.5/10 (IGN)",
+    "description": "Portal 2 is a puzzle-platform video game developed and published by Valve Corporation. It is the sequel to the 2007 game Portal and was released in April 2011.",
+    "imageFile": "/assets/images/MV5BMjM0MGY3NzUtZGUwNy00YzEyLTgxMzctMjE5ZWFkZjI5Y2QzXkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_QL75_UY414_CR0,0,280,414_.jpg"
+  },
+  {
+    "title": "Red Dead Redemption II",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "Stadia"
+    ],
+    "releaseYear": 2018,
+    "developer": "Rockstar Studios",
+    "rating": "10/10 (IGN)",
+    "description": "Red Dead Redemption II is an action-adventure game developed and published by Rockstar Games. It is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption.",
+    "imageFile": "/assets/images/MV5BMjMyZDY5NTctMzQ0Ny00ZTU0LWE1ZDYtNDYzMjAxYjA1ZGYxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "genre": "Role-playing",
+    "platform": [
+      "PC"
+    ],
+    "releaseYear": 2000,
+    "developer": "BioWare",
+    "rating": "9.5/10 (IGN)",
+    "description": "Baldur's Gate II: Shadows of Amn is a role-playing video game developed by BioWare and published by Interplay Entertainment. It is the sequel to Baldur's Gate and is set in the Forgotten Realms campaign setting.",
+    "imageFile": "/assets/images/MV5BMjRjOWYzMWYtNjYwNC00Y2RlLTkwZWQtZmI0ZmRjNDFkMGNlXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 2",
+      "Xbox",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "releaseYear": 2004,
+    "developer": "Rockstar North",
+    "rating": "9.5/10 (IGN)",
+    "description": "Grand Theft Auto: San Andreas is an action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh title in the Grand Theft Auto series and was released in 2004.",
+    "imageFile": "/assets/images/MV5BMTdkZDFkMjMtYmM2My00MDljLWI1M2UtZjMwM2RjYWFhYmQyXkEyXkFqcGdeQXVyNjgzMTIxNzE@._V1_QL75_UY414_CR24,0,280,414_.jpg"
+  },
+  {
+    "title": "Uncharted 4: A Thief's End",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 4"
+    ],
+    "releaseYear": 2016,
+    "developer": "Naughty Dog",
+    "rating": "9/10 (IGN)",
+    "description": "Uncharted 4: A Thief's End is an action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. It is the fourth main entry in the Uncharted series and follows treasure hunter Nathan Drake in his final adventure.",
+    "imageFile": "/assets/images/MV5BMTYzYzIxMjktMDM4NS00MTM5LWJlMDgtNDRhMDNhOGRmY2EwXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Bloodborne: The Old Hunters",
+    "genre": "Action role-playing",
+    "platform": [
+      "PlayStation 4"
+    ],
+    "releaseYear": 2015,
+    "developer": "FromSoftware",
+    "rating": "9.3/10 (IGN)",
+    "description": "Bloodborne: The Old Hunters is an expansion for the action role-playing game Bloodborne, developed by FromSoftware and published by Sony Computer Entertainment. It was released in 2015 and expands upon the original game's story and gameplay.",
+    "imageFile": "/assets/images/MV5BN2MzYTE5ZjQtNzc4YS00Njc5LWE4NTctMTYyNzQ2NzlmOTE5XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UY414_CR7,0,280,414_.jpg"
+  },
+  {
+    "title": "Star Wars: Knights of the Old Reassets",
+    "genre": "Role-playing",
+    "platform": [
+      "Xbox",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "releaseYear": 2003,
+    "developer": "BioWare",
+    "rating": "9.5/10 (IGN)",
+    "description": "Star Wars: Knights of the Old Reassets is a role-playing video game developed by BioWare and published by LucasArts. Set in the Star Wars universe thousands of years before the events of the films, players take on the role of a Jedi or Sith in training.",
+    "imageFile": "/assets/images/MV5BN2YwNjdkNGUtYTc1Zi00YjIyLWJiMDgtNTI0YTE2ZjNjYzk1XkEyXkFqcGdeQXVyNzcyMjAwNTE@._V1_QL75_UY414_CR8,0,280,414_.jpg"
+  },
+  {
+    "title": "The Last of Us",
+    "genre": "Action-adventure, survival horror",
+    "platform": [
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "releaseYear": 2013,
+    "developer": "Naughty Dog",
+    "rating": "10/10 (IGN)",
+    "description": "The Last of Us is an action-adventure survival horror game developed by Naughty Dog and published by Sony Computer Entertainment. Set in a post-apocalyptic world, players control Joel, a smuggler, and Ellie, a teenage girl, as they navigate through dangerous environments.",
+    "imageFile": "/assets/images/MV5BNGQyYmRkZTgtN2Q1MS00MDllLTg5ZmItNDgyMzczNjVlYWVhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UY414_CR16,0,280,414_.jpg"
+  },
+  {
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "genre": "Action-adventure",
+    "platform": [
+      "Nintendo Switch"
+    ],
+    "releaseYear": "TBA",
+    "developer": "Nintendo",
+    "rating": "TBA",
+    "description": "The Legend of Zelda: Tears of the Kingdom is an upcoming action-adventure game developed and published by Nintendo. It is the latest installment in The Legend of Zelda series, featuring protagonist Link as he embarks on a new quest to save the kingdom.",
+    "imageFile": "/assets/images/MV5BNmZiNDM4NjktMGY2NC00ZTM0LWI5MmQtMDdkZDcxYzRmMmYzXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_QL75_UY414_CR8,0,280,414_.jpg"
+  },
+  {
+    "title": "Alan Wake II",
+    "genre": "Psychological horror, action-adventure",
+    "platform": "TBA",
+    "releaseYear": "TBA",
+    "developer": "Remedy Entertainment",
+    "rating": "TBA",
+    "description": "Alan Wake II is an upcoming psychological horror action-adventure game developed by Remedy Entertainment. It serves as the sequel to the 2010 game Alan Wake, continuing the story of the titular character as he battles supernatural forces.",
+    "imageFile": "/assets/images/MV5BNTRkNzgwZGQtYzZhNC00OTFjLWIzMjgtNjM2NDMyYjFiZTAxXkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Resident Evil 4",
+    "genre": "Survival horror, third-person shooter",
+    "platform": "Various (initially released on GameCube)",
+    "releaseYear": 2005,
+    "developer": "Capcom",
+    "rating": "9.6/10 (IGN)",
+    "description": "Resident Evil 4 is a survival horror game developed by Capcom. Initially released for the GameCube in 2005, it has since been ported to various platforms. The game follows Leon S. Kennedy as he investigates the kidnapping of the President's daughter in a rural European village.",
+    "imageFile": "/assets/images/MV5BNWM2ZjM5ZjgtYjgxMi00NGY2LTgxNTYtYmMzY2EyNTQwNjg1XkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Elden Ring",
+    "genre": "Action role-playing",
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "releaseYear": 2022,
+    "developer": "FromSoftware",
+    "rating": "TBA",
+    "description": "Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It is set in a fantasy world created by Hidetaka Miyazaki and George R. R. Martin, featuring gameplay similar to FromSoftware's previous titles.",
+    "imageFile": "/assets/images/MV5BODA2NDMzOGUtNzhkNy00YTlmLWFjNGYtMGIyZjRhNDRlOTc4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Red Dead Redemption",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "releaseYear": 2010,
+    "developer": "Rockstar San Diego",
+    "rating": "10/10 (IGN)",
+    "description": "Red Dead Redemption is an action-adventure game developed by Rockstar San Diego and published by Rockstar Games. Set in the American Wild West in 1911, players control John Marston as he seeks to bring his former gang members to justice.",
+    "imageFile": "/assets/images/MV5BODQ1YzU4MmMtYmE0YS00NTRjLWE4YWMtZWNiNzM4M2ZkMzcxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Final Fantasy VII",
+    "genre": "Role-playing",
+    "platform": [
+      "PlayStation",
+      "PC",
+      "iOS",
+      "Android",
+      "PlayStation 4"
+    ],
+    "releaseYear": 1997,
+    "developer": "Square Enix",
+    "rating": "9.5/10 (IGN)",
+    "description": "Final Fantasy VII is a role-playing game developed by Square Enix. Released in 1997 for the PlayStation, it is the seventh main installment in the Final Fantasy series. The game follows Cloud Strife and his allies as they battle the megacorporation Shinra and the villain Sephiroth.",
+    "imageFile": "/assets/images/MV5BODUxZTgwZWMtNWZhMS00NmQ5LWE5MGYtMjZiZDRhZGI3ODg1XkEyXkFqcGdeQXVyMTA3NjAwMDc4._V1_QL75_UY414_CR16,0,280,414_.jpg"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "releaseYear": 2013,
+    "developer": "Rockstar North",
+    "rating": "10/10 (IGN)",
+    "description": "Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games. Set in the fictional state of San Andreas, players control three criminals as they commit heists and navigate the criminal underworld.",
+    "imageFile": "/assets/images/MV5BYjEzMTM4ZmQtZTEzYS00ZGVmLTkwM2EtNWNmMDI4OWQ0MjBmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Action-adventure",
+    "platform": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "releaseYear": 2017,
+    "developer": "Nintendo EPD",
+    "rating": "10/10 (IGN)",
+    "description": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo. It is the nineteenth main installment in The Legend of Zelda series and features an open-world environment for players to explore as they uncover the story of Link and Princess Zelda.",
+    "imageFile": "/assets/images/MV5BYjI3MjhiNjMtZjRlOC00MzQyLWEzMGMtZjY0MjhjNjRmMWI4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Metal Gear Solid",
+    "genre": "Stealth action",
+    "platform": [
+      "PlayStation",
+      "PC"
+    ],
+    "releaseYear": 1998,
+    "developer": "Konami",
+    "rating": "9.8/10 (IGN)",
+    "description": "Metal Gear Solid is a stealth action game developed by Konami. Released in 1998 for the PlayStation, it follows the protagonist Solid Snake as he infiltrates a nuclear weapons facility to stop a terrorist threat.",
+    "imageFile": "/assets/images/MV5BYjYxMmFjM2YtYzE4Yy00MjI5LWFmZWEtNTA0YjA0YWYyNmY2XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Cyberpunk 2077: Phantom Liberty",
+    "genre": "Action role-playing",
+    "platform": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "Stadia"
+    ],
+    "releaseYear": 2020,
+    "developer": "CD Projekt Red",
+    "rating": "7/10 (IGN)",
+    "description": "Cyberpunk 2077: Phantom Liberty is an action role-playing game developed and published by CD Projekt Red. Set in the dystopian Night City, players assume the role of V as they navigate the dangerous world of cybernetic enhancements and corporate intrigue.",
+    "imageFile": "/assets/images/MV5BYWFhOGQwODctMDFmNC00NGEyLWI5NTUtZDliYzRmYmM4MzJlXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UY414_CR16,0,280,414_.jpg"
+  },
+  {
+    "title": "Mass Effect 2",
+    "genre": "Action role-playing, third-person shooter",
+    "platform": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "releaseYear": 2010,
+    "developer": "BioWare",
+    "rating": "9.6/10 (IGN)",
+    "description": "Mass Effect 2 is an action role-playing game developed by BioWare and published by Electronic Arts. It is the second installment in the Mass Effect series and follows Commander Shepard as they assemble a team to combat a new threat to the galaxy.",
+    "imageFile": "/assets/images/MV5BYzAyMTdmMTctNGIxYS00ZDAxLWE2NzktMWEyOGIyN2MwZTU2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  },
+  {
+    "title": "Batman: Arkham City",
+    "genre": "Action-adventure",
+    "platform": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Wii U",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "releaseYear": 2011,
+    "developer": "Rocksteady Studios",
+    "rating": "10/10 (IGN)",
+    "description": "Batman: Arkham City is an action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. It is the sequel to Batman: Arkham Asylum and allows players to explore the open-world environment of Arkham City as Batman.",
+    "imageFile": "/assets/images/MV5BZDE2ZDFhMDAtMDAzZC00ZmY3LThlMTItMGFjMzRlYzExOGE1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+  },
+  {
+    "title": "Chrono Trigger",
+    "genre": "Role-playing",
+    "platform": [
+      "Super Nintendo Entertainment System (SNES)",
+      "PlayStation",
+      "Nintendo DS",
+      "iOS",
+      "Android",
+      "PC"
+    ],
+    "releaseYear": 1995,
+    "developer": "Square Enix",
+    "rating": "10/10 (IGN)",
+    "description": "Chrono Trigger is a role-playing game developed and published by Square Enix. Originally released for the SNES in 1995, it follows a group of adventurers as they travel through time to prevent a global catastrophe.",
+    "imageFile": "/assets/images/MV5BZDY3NDJkNTAtM2YwZi00MDYwLTlkMGMtMzQxOGNkNWE3ZmNiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX280_CR0,3,280,414_.jpg"
+  }
+]
